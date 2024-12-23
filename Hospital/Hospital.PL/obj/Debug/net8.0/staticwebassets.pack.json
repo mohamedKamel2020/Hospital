@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Hospital.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hospital.PL.xn8vkwpm6z.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\index.html",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Project1MC\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_all_startups.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_all_startups.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_contact_form.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_contact_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_department.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_department.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_services_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\Project1MC\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Project1MC\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\css\\templatemo-medic-care.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-medic-care.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\bone.png",
+      "PackagePath": "staticwebassets\\images\\departments\\bone.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\brain.png",
+      "PackagePath": "staticwebassets\\images\\departments\\brain.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\cancer-cell.png",
+      "PackagePath": "staticwebassets\\images\\departments\\cancer-cell.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\cardiology.png",
+      "PackagePath": "staticwebassets\\images\\departments\\cardiology.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\health.png",
+      "PackagePath": "staticwebassets\\images\\departments\\health.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\maternity.png",
+      "PackagePath": "staticwebassets\\images\\departments\\maternity.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\pediatrics.png",
+      "PackagePath": "staticwebassets\\images\\departments\\pediatrics.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\skin.png",
+      "PackagePath": "staticwebassets\\images\\departments\\skin.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\urology.png",
+      "PackagePath": "staticwebassets\\images\\departments\\urology.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\departments\\x-ray.png",
+      "PackagePath": "staticwebassets\\images\\departments\\x-ray.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\gallery\\bg-departments.png",
+      "PackagePath": "staticwebassets\\images\\gallery\\bg-departments.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\gallery\\female-doctor-with-presenting-hand-gesture.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\female-doctor-with-presenting-hand-gesture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\gallery\\medium-shot-man-getting-vaccine.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\medium-shot-man-getting-vaccine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\reviews\\beautiful-woman-face-portrait-brown-background.jpeg",
+      "PackagePath": "staticwebassets\\images\\reviews\\beautiful-woman-face-portrait-brown-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\reviews\\portrait-british-woman.jpeg",
+      "PackagePath": "staticwebassets\\images\\reviews\\portrait-british-woman.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\reviews\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+      "PackagePath": "staticwebassets\\images\\reviews\\senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\reviews\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+      "PackagePath": "staticwebassets\\images\\reviews\\woman-wearing-mask-face-closeup-covid-19-green-background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\slider\\doctor-s-hand-holding-stethoscope-closeup.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\doctor-s-hand-holding-stethoscope-closeup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\slider\\portrait-successful-mid-adult-doctor-with-crossed-arms.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\portrait-successful-mid-adult-doctor-with-crossed-arms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\images\\slider\\young-asian-female-dentist-white-coat-posing-clinic-equipment.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\young-asian-female-dentist-white-coat-posing-clinic-equipment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\js\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollspy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hospital.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hospital.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hospital.PL.props",
+      "PackagePath": "build\\Hospital.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hospital.PL.props",
+      "PackagePath": "buildMultiTargeting\\Hospital.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hospital.PL.props",
+      "PackagePath": "buildTransitive\\Hospital.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

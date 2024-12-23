@@ -1,0 +1,57 @@
+﻿@model Nurse
+
+@{
+    ViewBag.Title = "Delete Nurse";
+}
+
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4 class="text-center">Delete Nurse: @Model.Nursename</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<h3>Are you sure you want to delete Nurse: @Model.Nursename ?</h3>
+<div>
+
+    <form asp-action="DeleteNurse" asp-route-id="@Model.Nurseid" class="form mt-2">
+
+        <div class="form-group mt-2">
+            <label asp-for="Nurseid" class="control-label col-md-2">Nurse Id</label>
+            <div class="col-md-10">
+                <input asp-for="Nurseid" class="form-control" readonly />
+            </div>
+        </div>
+
+        <div class="form-group mt-2">
+            <label asp-for="Nursename" class="control-label col-md-2"></label>
+            <div class="col-md-10">
+                <input asp-for="Nursename" class="form-control" readonly />
+            </div>
+        </div>
+        <div class="form-group mt-2">
+            <label asp-for="Shift" class="control-label col-md-2"></label>
+            <div class="col-md-10">
+                <input asp-for="Shift" class="form-control" readonly />
+            </div>
+        </div>
+        <div class="form-group mt-2">
+            <label asp-for="Wardid" class="control-label col-md-2">Ward Number</label>
+            <div class="col-md-10">
+                <input asp-for="Wardid" class="form-control" readonly />
+            </div>
+        </div>
+        <div class="form-group mt-2">
+            <div class="col-md-offset-3 col-md-10">
+                <input type="submit" value="Delete" class="btn btn-danger" />|
+                <a asp-action="Index" class="btn btn-dark">Back to List</a>
+            </div>
+        </div>
+    </form>
+</div>

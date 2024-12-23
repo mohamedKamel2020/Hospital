@@ -1,0 +1,170 @@
+﻿@model StaffViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h2 class="text-center">HOSPITAL STAFF</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4>Doctors</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<div class="row mt-2">
+    <a asp-action="AddDoctor" class="btn btn-primary mb-2">Add new Doctor </a>
+</div>
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Specialty</th>
+            <th>Shift</th>
+            <th>Department</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model.Doctors)
+        {
+            <tr>
+                <td>@doctor.Doctorname</td>
+                <td>@doctor.MedicalSpecialization</td>
+                <td>@doctor.Shift</td>
+                <td>@doctor.Dep.Departmentname</td>
+                <td>
+                    <a asp-controller="Staff" asp-action="EditDoctor" asp-route-id="@doctor.Doctorid" class="btn btn-warning">
+                        <i class="fas fa-edit"></i>Edit
+                    </a>
+                </td>
+                <td>
+                    <a asp-controller="Staff" asp-action="DeleteDoctor" asp-route-id="@doctor.Doctorid" class="btn btn-danger">
+                        <i class="fas fa-trash"></i>Delete
+                    </a>
+                </td>
+            </tr>
+            
+        }
+    </tbody>
+</table>
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4>Nurses</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<div class="row mt-2">
+    <a asp-action="AddNurse" class="btn btn-primary mb-2"> Add new Nurse </a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Shift</th>
+            <th>Sex</th>
+            <th>Ward Number</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var nurse in Model.Nurses)
+        {
+            <tr>
+                <td>@nurse.Nursename</td>
+                <td>@nurse.Shift</td>
+                <td>@nurse.Sex</td>
+                <td>@nurse.Wardid</td>
+                <td>
+                    <a asp-controller="Staff" asp-action="EditNurse" asp-route-id="@nurse.Nurseid" class="btn btn-warning">
+                        <i class="fas fa-edit"></i>Edit
+                    </a>
+                </td>
+                <td>
+                    <a asp-controller="Staff" asp-action="DeleteNurse" asp-route-id="@nurse.Nurseid" class="btn btn-danger">
+                        <i class="fas fa-trash"></i>Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4>Accountants</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<div class="row mt-2">
+    <a asp-action="AddAccountant" class="btn btn-primary mb-2"> Add new Accountant </a>
+</div>
+
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Shift</th>
+            <th>Sex</th>
+            
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var accountant in Model.Accountants)
+        {
+            <tr>
+                <td>@accountant.Accountantname</td>
+                <td>@accountant.Shift</td>
+                <td>@accountant.Sex</td>
+                
+                <td>
+                    <a asp-controller="Staff" asp-action="EditAccountant" asp-route-id="@accountant.Accountantid" class="btn btn-warning">
+                        <i class="fas fa-edit"></i>Edit
+                    </a>
+                </td>
+                <td>
+                    <a asp-controller="Staff" asp-action="DeleteAccountant" asp-route-id="@accountant.Accountantid" class="btn btn-danger">
+                        <i class="fas fa-trash"></i>Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

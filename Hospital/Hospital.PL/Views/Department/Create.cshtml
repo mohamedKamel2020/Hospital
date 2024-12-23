@@ -1,0 +1,61 @@
+﻿@model Depatment
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h2 class="text-center">NEW DEPARTMENTS</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">  
+    <div class="form-horizontal m-auto">
+        
+        <hr />
+
+        <div class="form-group mt-2">
+            <label asp-for="Departmentid" class="control-label col-md-2">Department Id</label>
+            <div class="col-md-10">
+                <input asp-for="Departmentid" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group mt-2">
+            <label asp-for="Departmentname" class="control-label col-md-2">Name</label>
+            <div class="col-md-10">
+                <input asp-for="Departmentname" class="form-control" />
+            </div>
+        </div>
+
+        <div class="form-group mt-2">
+            <label asp-for="Departmentlocation" class="control-label col-md-2">Location</label>
+            <div class="col-md-10">
+                <input asp-for="Departmentlocation" class="form-control" />
+            </div>
+        </div>
+        
+        <div class="form-group mt-2">
+            <label asp-for="fileicon" class="control-label col-md-2">Image</label>
+            <div class="col-md-10">
+                <input type="file" asp-for="fileicon" class="form-control" />
+            </div>
+        </div>
+        
+        <div class="form-group mt-2">
+            <div class="col-md-offset-3 col-md-10">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+</form>
+
+

@@ -1,0 +1,44 @@
+﻿@model Testreporttreatment
+
+@{
+    ViewBag.Title = "Add Treatment";
+}
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4 class="text-center">Edit Treatment</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<form asp-action="EditTreatment" asp-route-doctorId="@Model.Docid" asp-route-patientId="@Model.Patid" class="mt-3">
+
+
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Docid">Doctor id</label>
+        <input class="form-control" asp-for="Docid" />
+    </div>
+
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Patid">Patient Id</label>
+        <input class="form-control" asp-for="Patid" />
+    </div>
+
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Treatments"></label>
+        <input class="form-control" asp-for="Treatments" />
+    </div>
+
+    <div class="mt-2">
+
+        <input type="submit" value="Save" class="btn btn-primary" />|
+        <a asp-action="Index" class="btn btn-info">Back to list</a>
+
+    </div>
+</form>

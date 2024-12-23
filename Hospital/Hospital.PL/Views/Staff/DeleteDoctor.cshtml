@@ -1,0 +1,57 @@
+﻿@model Doctor
+
+@{
+    ViewBag.Title = "Delete Doctor";
+}
+
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4 class="text-center">Delete Doctor: @Model.Doctorname</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<h3>Are you sure you want to delete Dr: @Model.Doctorname ?</h3>
+<div>
+    
+    <form asp-action="DeleteDoctor" asp-route-id="@Model.Doctorid" class="form mt-2">
+        
+            <div class="form-group mt-2">
+            <label asp-for="Doctorid" class="control-label col-md-2">Ward Number</label>
+                <div class="col-md-10">
+                <input asp-for="Doctorid" class="form-control" readonly />
+                </div>
+            </div>
+
+            <div class="form-group mt-2">
+                <label asp-for="Doctorname" class="control-label col-md-2"></label>
+                <div class="col-md-10">
+                    <input asp-for="Doctorname" class="form-control" readonly />
+                </div>
+            </div>
+        <div class="form-group mt-2">
+            <label asp-for="MedicalSpecialization" class="control-label col-md-2"></label>
+            <div class="col-md-10">
+                <input asp-for="MedicalSpecialization" class="form-control" readonly />
+            </div>
+        </div>
+        <div class="form-group mt-2">
+            <label asp-for="Dep.Departmentname" class="control-label col-md-2"></label>
+            <div class="col-md-10">
+                <input asp-for="Dep.Departmentname" class="form-control" readonly />
+            </div>
+        </div>
+            <div class="form-group mt-2">
+                <div class="col-md-offset-3 col-md-10">
+                    <input type="submit" value="Delete" class="btn btn-danger" />|
+                    <a asp-action="Index" class="btn btn-dark">Back to List</a>
+                </div>
+            </div>
+    </form>
+</div>

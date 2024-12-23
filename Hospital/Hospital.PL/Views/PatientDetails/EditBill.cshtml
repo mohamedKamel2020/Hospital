@@ -1,0 +1,58 @@
+﻿@model Bill
+
+@{
+    ViewBag.Title = "Edit Bill";
+}
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4 class="text-center">Edit Bill</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<form asp-action="EditBill" asp-route-id="@Model.Billid" class="mt-3">
+
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Billid">Bill Id</label>
+        <input class="form-control" asp-for="Billid" readonly/>
+    </div>
+
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Totalbill">Total Bill</label>
+        <input class="form-control" asp-for="Totalbill" />
+    </div>
+    <div class="form-group mt-2">
+        <label asp-for="Accid" class="control-label col-md-2">Accountant</label>
+        <div class="col-md-12">
+            <select asp-for="Accid" class="form-control" asp-items="ViewBag.Accountants"></select>
+        </div>
+    </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="Patid" class="control-label col-md-2">Patient</label>
+        <div class="col-md-12">
+            <select asp-for="Patid" class="form-control" asp-items="ViewBag.Patients"></select>
+        </div>
+    </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="Hasinsurance" class="control-label col-md-2"></label>
+        <div class="col-md-12">
+            <input type="radio" asp-for="Hasinsurance" value="true" /> True
+            <input type="radio" asp-for="Hasinsurance" value="false" /> False
+        </div>
+    </div>
+
+    <div class="mt-2">
+        <input type="submit" value="Edit" class="btn btn-warning" />|
+        <a asp-action="Index" class="btn btn-info">Back to list</a>
+
+    </div>
+</form>

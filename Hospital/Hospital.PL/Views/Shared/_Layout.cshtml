@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Hospital.PL.styles.css" asp-append-version="true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+                
+    <link href="~/css/bootstrap-icons.css" rel="stylesheet">
+                
+    <link href="~/css/owl.carousel.min.css" rel="stylesheet">
+                
+    <link href="~/css/owl.theme.default.min.css" rel="stylesheet">
+
+    <link href="~/css/templatemo-medic-care.css" rel="stylesheet">
+
+    <link href="~/css/templatemo-medic-care.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
+            <div class="container">
+                <a class="navbar-brand mx-auto d-lg-none" href="index.html">
+                    HOSPITAL
+                    <!-- <strong class="d-block">Health Specialist</strong> -->
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Patients</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Department" asp-action="Index">Departments</a>
+
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Ward" asp-action="Index">Wards</a>
+                        </li>
+
+                        <a class="navbar-brand d-none d-lg-block" asp-controller="Department" asp-action="Index">
+                            HOSPITAL
+                            <strong class="d-block">Health Specialist</strong>
+                        </a>
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Staff" asp-action="Index">Our Team</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="PatientDetails" asp-action="Index">Medications</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3 mx-4">
+            @RenderBody()
+        </main>
+    </div>
+
+  
+    <footer class="site-footer section-padding" id="contact">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-5 me-auto col-12">
+                    <h5 class="mb-lg-4 mb-3">Opening Hours</h5>
+
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item d-flex">
+                            Firday : Closed
+                        </li>
+
+                        <li class="list-group-item d-flex">
+                            Sunday, Mon - Thu
+                            <span>8:00 AM - 3:30 PM</span>
+                        </li>
+
+                        <li class="list-group-item d-flex">
+                            Saturday
+                            <span>10:30 AM - 5:30 PM</span>
+                        </li>
+                    </ul>
+                </div>
+
+                
+
+                <div class="col-lg-3 col-md-6 col-12 ms-auto">
+                    <h5 class="mb-lg-4 mb-2">Our Team</h5>
+
+                    <ul class="social-icon">
+                        <li><a href="https://www.facebook.com/profile.php?id=100025103920016" class="social-icon-link bi-facebook"></a></li>
+
+                        <li><a href="https://www.linkedin.com/in/mohammed-kamel-169885270/" class="social-icon-link bi-linkedin"></a></li>
+
+                        <li><a href="mailto:m.kamelmohamed@gmail.com" class="social-icon-link bi-google"></a></li>
+
+                        <li><a href="https://github.com/mohamedKamel2020" class="social-icon-link bi-github"></a></li>
+
+                    </ul>
+
+                
+                    <p>Mohamed Kamel</p>
+                    <p>Ahmed Emad</p>
+                    <p>Hossam Mohamed</p>
+                    <p>Abdelrhman Tarek</p>
+                   
+                </div>
+            </div>
+            </section>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/scrollspy.min.js"></script>
+    <script src="~/js/custom.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

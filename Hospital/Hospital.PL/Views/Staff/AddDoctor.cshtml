@@ -1,0 +1,80 @@
+﻿@model Doctor
+
+@{
+    ViewBag.Title = "Add Doctor";
+}
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4 class="text-center">Add New Doctor</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+
+<form asp-action="AddDoctor" class="mt-3">
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Doctorid">Doctor Id</label>
+        <input class="form-control" asp-for="Doctorid"/>
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Doctorname">Doctor Name</label>
+        <input class="form-control" asp-for="Doctorname" />
+        <span asp-validation-for="Doctorname"></span>
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Phone"></label>
+        <input class="form-control" asp-for="Phone" />
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="MedicalSpecialization">Specialization</label>
+        <input class="form-control" asp-for="MedicalSpecialization" />
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Age"></label>
+        <input class="form-control" asp-for="Age" />
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="City"></label>
+        <input class="form-control" asp-for="City" />
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Street"></label>
+        <input class="form-control" asp-for="Street" />
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Apartmentblockno"></label>
+        <input class="form-control" asp-for="Apartmentblockno" />
+    </div>
+    <div class="form-group mt-2">
+        <label asp-for="Sex" class="control-label col-md-2"></label>
+        <div class="col-md-10">
+            <input type="radio" asp-for="Sex" value="M" /> Male
+            <input type="radio" asp-for="Sex" value="F" /> Female
+        </div>
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Salary"></label>
+        <input class="form-control"  asp-for="Salary" />
+    </div>
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Shift"></label>
+        <input class="form-control"  asp-for="Shift" />
+    </div>
+   
+    <div class="form-group mt-2">
+        <label asp-for="Depid" class="control-label col-md-2">Department</label>
+        <div class="col-md-10">
+            <select asp-for="Depid" class="form-control" asp-items="ViewBag.Departments"></select>
+        </div>
+    </div>
+    <div class="mt-2">
+    <input type="submit" value="Save" class="btn btn-primary" />|
+    <a asp-action="Index" class="btn btn-info">Back to list</a>
+
+    </div>
+</form>

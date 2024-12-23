@@ -1,0 +1,45 @@
+﻿@model Bill
+
+@{
+    ViewBag.Title = "Delete Bill";
+}
+
+<section class="py-3">
+    <section class="py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 py-3">
+                    <h4 class="text-center">Delete Bill</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+<form asp-action="DeleteBill" asp-route-id="@Model.Billid" class="mt-3">
+
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Billid">Bill Id</label>
+        <input class="form-control" asp-for="Billid" readonly />
+    </div>
+
+    <div class="form-group mt-2">
+        <label class="form-label" asp-for="Totalbill">Total Bill</label>
+        <input class="form-control" asp-for="Totalbill" readonly/>
+    </div>
+    <div class="form-group mt-2">
+        <label asp-for="Accid" class="control-label col-md-2">Accountant</label>
+        <input class="form-control" asp-for="@Model.Acc.Accountantname" readonly />
+
+    </div>
+
+    <div class="form-group mt-2">
+        <label asp-for="Patid" class="control-label col-md-2">Patient</label>
+        <input class="form-control" asp-for="@Model.Pat.Patientname" readonly />
+    </div>
+
+    <div class="mt-2">
+        <input type="submit" value="Delete" class="btn btn-danger" />|
+        <a asp-action="Index" class="btn btn-info">Back to list</a>
+    </div>
+</form>
