@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98F4CC4D-97CD-41D4-A4C0-6E310B4D8FF4}|Hospital.PL\\Hospital.PL.csproj|c:\\users\\dell\\desktop\\unvirsity\\project\\hospital\\hospital.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60956369-AB65-4DDB-BB0D-C207AA867C15}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\projects (asp.net)\\hospital\\hospital\\hospital.dal\\models\\depatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60956369-AB65-4DDB-BB0D-C207AA867C15}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\models\\depatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60956369-AB65-4DDB-BB0D-C207AA867C15}|Hospital.DAL\\Hospital.DAL.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\projects (asp.net)\\hospital\\hospital\\hospital.dal\\context\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60956369-AB65-4DDB-BB0D-C207AA867C15}|Hospital.DAL\\Hospital.DAL.csproj|solutionrelative:hospital.dal\\context\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F4CC4D-97CD-41D4-A4C0-6E310B4D8FF4}|Hospital.PL\\Hospital.PL.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\projects (asp.net)\\hospital\\hospital\\hospital.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98F4CC4D-97CD-41D4-A4C0-6E310B4D8FF4}|Hospital.PL\\Hospital.PL.csproj|solutionrelative:hospital.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\Program.cs",
-              "RelativeDocumentMoniker": "Hospital.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.PL\\Program.cs",
-              "RelativeToolTip": "Hospital.PL\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBMAAABVAAAAAAAAAA==",
+              "Title": "Depatment.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\Hospital.DAL\\Models\\Depatment.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Models\\Depatment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\Hospital.DAL\\Models\\Depatment.cs",
+              "RelativeToolTip": "Hospital.DAL\\Models\\Depatment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T08:42:57.424Z",
+              "WhenOpened": "2025-07-24T22:31:14.135Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\Hospital.DAL\\Context\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital.DAL\\Context\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\Hospital.DAL\\Context\\HospitalDbContext.cs",
+              "RelativeToolTip": "Hospital.DAL\\Context\\HospitalDbContext.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAQwFUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T22:30:19.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\Hospital.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\Hospital.PL\\Program.cs",
+              "RelativeToolTip": "Hospital.PL\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:42:57.424Z"
             }
           ]
         }

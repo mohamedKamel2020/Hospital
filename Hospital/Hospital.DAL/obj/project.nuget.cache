@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bqYw/HzgJhM=",
+  "dgSpecHash": "Q1G6hV44HLs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Unvirsity\\Project\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\Projects (ASP.NET)\\Hospital\\Hospital\\Hospital.DAL\\Hospital.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -44,12 +44,5 @@
     "C:\\Users\\Dell\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  "logs": []
 }
